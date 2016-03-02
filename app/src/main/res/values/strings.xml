@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <array name="opcions">
+        <item>ListView</item>
+        <item>Spinner</item>
+    </array>
+</resources>
